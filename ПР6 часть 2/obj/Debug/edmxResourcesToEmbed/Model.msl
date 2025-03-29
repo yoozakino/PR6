@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ПР6ModelContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Userr">
+      <EntityTypeMapping TypeName="ПР6Model.Userr">
+        <MappingFragment StoreEntitySet="Userr">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Loginn" ColumnName="Loginn" />
+          <ScalarProperty Name="Passwordd" ColumnName="Passwordd" />
+          <ScalarProperty Name="Rolee" ColumnName="Rolee" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

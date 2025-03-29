@@ -1,0 +1,50 @@
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.AssemblyReference.cache
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\MainWindow.g.cs
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\App.g.cs
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2_Content.g.cs
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2_MarkupCompile.cache
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2_MarkupCompile.lref
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\ПР6 часть 2.exe.config
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\ПР6 часть 2.exe
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\ПР6 часть 2.pdb
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\EntityFramework.dll
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\EntityFramework.xml
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\MainWindow.baml
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.g.resources
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6_часть_2.Properties.Resources.resources
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.GenerateResource.cache
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.CoreCompileInputs.cache
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 част.DCACA7D6.Up2Date
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.exe
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\ПР6 часть 2.pdb
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\AuthPage.g.cs
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\RegPage.g.cs
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\AuthPage.baml
+C:\Users\kazak\OneDrive\Документы\ПР6 часть 2\ПР6 часть 2\obj\Debug\RegPage.baml
+C:\PR6\ПР6 часть 2\bin\Debug\ПР6 часть 2.exe.config
+C:\PR6\ПР6 часть 2\bin\Debug\ПР6 часть 2.exe
+C:\PR6\ПР6 часть 2\bin\Debug\ПР6 часть 2.pdb
+C:\PR6\ПР6 часть 2\bin\Debug\EntityFramework.dll
+C:\PR6\ПР6 часть 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\PR6\ПР6 часть 2\bin\Debug\EntityFramework.xml
+C:\PR6\ПР6 часть 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.AssemblyReference.cache
+C:\PR6\ПР6 часть 2\obj\Debug\AuthPage.g.cs
+C:\PR6\ПР6 часть 2\obj\Debug\MainWindow.g.cs
+C:\PR6\ПР6 часть 2\obj\Debug\RegPage.g.cs
+C:\PR6\ПР6 часть 2\obj\Debug\App.g.cs
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2_Content.g.cs
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2_MarkupCompile.cache
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2_MarkupCompile.lref
+C:\PR6\ПР6 часть 2\obj\Debug\AuthPage.baml
+C:\PR6\ПР6 часть 2\obj\Debug\MainWindow.baml
+C:\PR6\ПР6 часть 2\obj\Debug\RegPage.baml
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.g.resources
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6_часть_2.Properties.Resources.resources
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.GenerateResource.cache
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.csproj.CoreCompileInputs.cache
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 част.DCACA7D6.Up2Date
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.exe
+C:\PR6\ПР6 часть 2\obj\Debug\ПР6 часть 2.pdb
